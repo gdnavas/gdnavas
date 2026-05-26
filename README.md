@@ -50,3 +50,5 @@ I build **backend systems** focused on clarity, performance, and long-term maint
 ---
 
 > I value simple solutions, explicit trade‑offs, and systems that are easy to reason about.
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=gdnavas&theme=tokyonight&hide_title=true&border_radius=44&hide=stars%2Cfollowers)
